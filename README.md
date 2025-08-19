@@ -1,50 +1,72 @@
-# Hi there, I'm [Your Name] 👋
+<!-- Pastelowe nagłówki i banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Cześć!+Jestem+PXR0-DEV;Tworzę+niesamowite+tryby+na+Roblox!" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding gif" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ1YWYwZjQ0MmM4NjZkYTk4NWIzNWIxZjM1ZjE4MzFlZTc1ZWYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"> <!-- Optional: A subtle, professional GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDczbGd4aHJ0MmtkOTltN3QzZzJmaTJzaGgzNTdscm16MWpwMzc0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="600" alt="Roblox Studio Banner">
+</div>
 
-I'm a developer with a focus on backend technologies, particularly Node.js. I'm passionate about building efficient and scalable applications.
+## 🌸 O mnie
+<div align="center">
+  <img align="right" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+</div>
 
-Currently, I'm expanding my skills and exploring the world of mobile app development for both iOS and Android platforms.
+- 🎮 Pasjonuję się tworzeniem unikalnych trybów gry na platformie Roblox
+- 💻 Programuję w Lua i korzystam z Roblox Studio
+- 🌟 Specjalizuję się w projektowaniu angażujących doświadczeń dla graczy
+- 🔍 Ciągle poszukuję nowych technik i rozwiązań w game developmencie
+- 🌈 Uwielbiam pastelową estetykę i kreatywne podejście do projektowania
 
----
+## 🍭 Moje umiejętności
 
-## 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Lua-5C5CD9?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Design-FFC0CB?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Modeling-FFAFCC?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_Design-BDE0FE?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-*   **Backend:** Node.js, Express.js <!-- Add others like databases, APIs -->
-*   **Languages:** JavaScript, TypeScript <!-- Add others -->
-*   **Mobile:** Exploring Swift (iOS), Kotlin (Android) <!-- Adjust as you learn -->
-*   **Tools:** Git, Docker <!-- Add others like CI/CD, testing frameworks -->
+## 🌈 Moje projekty
 
-<!-- You can use badges for a cleaner look. Generate them here: https://shields.io/ -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,git,docker" />
-    <!-- Add more icons as needed, e.g., swift, kotlin, androidstudio, xcode -->
+<div align="center">
+  <a href="LINK_DO_PROJEKTU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PXR0-DEV&repo=NAZWA_REPO&theme=buefy&bg_color=ffefef&title_color=ff69b4&icon_color=ff69b4&border_color=ffb7c5" />
   </a>
-</p>
+  <a href="LINK_DO_PROJEKTU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PXR0-DEV&repo=NAZWA_REPO&theme=buefy&bg_color=e0ffff&title_color=5d8aa8&icon_color=5d8aa8&border_color=afeeee" />
+  </a>
+</div>
 
----
+## 🌟 Statystyki GitHub
 
-## 🌱 Currently Exploring
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PXR0-DEV&show_icons=true&theme=buefy&bg_color=fff0f5&title_color=db7093&icon_color=ff69b4&border_color=ffc0cb" alt="GitHub Stats" />
+</div>
 
-*   Diving deeper into native mobile development frameworks and best practices.
-*   Building cross-platform solutions (if applicable, e.g., React Native, Flutter).
-*   [Mention any specific project or learning goal related to mobile dev].
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PXR0-DEV&theme=buefy&background=fff0f5&border=ffc0cb&currStreakNum=db7093&sideNums=db7093&currStreakLabel=db7093&sideLabels=db7093&dates=ff69b4" alt="GitHub Streak" />
+</div>
 
----
+## 📫 Kontakt
 
-## 📫 How to Reach Me
+<div align="center">
+  <a href="https://discord.gg/TwojDiscord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/TwojTwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/users/TwojProfil/profile">
+    <img src="https://img.shields.io/badge/Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+</div>
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Portfolio/Website:** [knocodeit.tech]
-*   **Email:** [daftey@icloud.com]
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PXR0-DEV&style=flat-square&color=ff69b4" alt="Profile views" />
+</div>
 
----
-
-<!-- Optional: GitHub Stats - Keep it clean for a professional look -->
-<!-- Generate yours here: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Example (choose themes like 'default', 'radical', 'merko', 'gruvbox', 'tokyonight', 'dracula', etc.) -->
-<!--
-&nbsp;[![PXR0-DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=PXR0-DEV&show_icons=true&theme=professional)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PXR0-DEV&layout=compact&theme=professional)](https://github.com/anuraghazra/github-readme-stats)
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
+</div>
