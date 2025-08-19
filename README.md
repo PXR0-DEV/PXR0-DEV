@@ -1,6 +1,6 @@
 <!-- Pastelowe nagłówki i banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Cześć!+Jestem+PXR0-DEV;Tworzę+niesamowite+tryby+na+Roblox!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Cześć!+Jestem+PXR0-DEV;Developer+dla+platformy+Roblox!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,16 +28,6 @@
   <img src="https://img.shields.io/badge/UI_Design-BDE0FE?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## 🌈 Moje projekty
-
-<div align="center">
-  <a href="LINK_DO_PROJEKTU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PXR0-DEV&repo=NAZWA_REPO&theme=buefy&bg_color=ffefef&title_color=ff69b4&icon_color=ff69b4&border_color=ffb7c5" />
-  </a>
-  <a href="LINK_DO_PROJEKTU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PXR0-DEV&repo=NAZWA_REPO&theme=buefy&bg_color=e0ffff&title_color=5d8aa8&icon_color=5d8aa8&border_color=afeeee" />
-  </a>
-</div>
 
 ## 🌟 Statystyki GitHub
 
