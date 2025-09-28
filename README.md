@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Cześć!+Jestem+PXR0-DEV;Developer+dla+platformy+Roblox!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDczbGd4aHJ0MmtkOTltN3QzZzJmaTJzaGgzNTdscm16MWpwMzc0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="600" alt="Roblox Studio Banner">
-</div>
-
 ## 🌸 O mnie
 <div align="center">
   <img align="right" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
